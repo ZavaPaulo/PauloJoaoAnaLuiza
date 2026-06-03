@@ -2,6 +2,7 @@ programa {
 	funcao inicio() {
 		escreva ("Olá mundo!")
 		escreva ("Paulo José")
+		escreva("João Paulo")
 	}
 }
 
@@ -10,7 +11,7 @@ programa {
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 80; 
+ * @POSICAO-CURSOR = 103; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
